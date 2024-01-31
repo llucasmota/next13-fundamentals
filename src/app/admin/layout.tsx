@@ -5,6 +5,7 @@ export default function AdminLayout({ children }: { children: ReactNode }) {
     <div>
       {children}
       <p>Painel de administração</p>
+      <p>Admin</p>
     </div>
   )
 }
